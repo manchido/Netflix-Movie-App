@@ -37,7 +37,7 @@ export default function Featured({ type }) {
         <span className="desc">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
           adipisci repellendus eum quasi illo, velit numquam, maxime tempora
-          sint deleniti, aliquid qui? Facilis, adipisci! Ratione hic repudiandae
+          sint deleniti, aliquid qui? Facilis, adipisci! Ratione hic repudiand
           temporibus eum earum?
         </span>
         <div className="buttons">
